@@ -1,0 +1,23 @@
+{
+  "name": "CryptoFetch",
+  "version": "1.0.0",
+  "description": "Uses coinmarketcap's ticker api to retrieve values of cryptocurrencies. Built with jQuery and Bootstrap 4.",
+  "main": "jquery-3.2.1.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelroudnitski/CryptoFetch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelroudnitski/CryptoFetch/issues"
+  },
+  "homepage": "https://github.com/michaelroudnitski/CryptoFetch#readme",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}

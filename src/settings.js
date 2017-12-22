@@ -1,5 +1,6 @@
 // settings.js
 // Michael Roudnitski 12/21/2017
+var $ = require('jquery');
 
 var selected = '';  // string storing the name of the coin the user wishes to add to their tracking list
 

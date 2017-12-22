@@ -1,5 +1,6 @@
 // fetch.js
 // Michael Roudnitski 12/21/2017
+var $ = require('jquery');
 
 $(document).ready(function() {
     var cmcAPI = "https://api.coinmarketcap.com/v1/ticker/?limit=0";
